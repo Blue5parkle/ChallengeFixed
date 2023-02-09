@@ -23,6 +23,6 @@ else
     }
     else if (name == "Ewa")
     {
-        Console.WriteLine("Czy to ty byłeś Ewą?")
+        Console.WriteLine("Czy to ty byłeś Ewą?");
     }
 }
