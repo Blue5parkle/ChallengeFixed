@@ -63,7 +63,7 @@ foreach (char letter in letters)
 
 }
 
-Console.WriteLine("wyniki dla liczby:" + number);
+Console.WriteLine("Rezultat dla liczby" + number);
 Console.WriteLine("0 => " + counter0);
 Console.WriteLine("1 => " + counter1);
 Console.WriteLine("2 => " + counter2);
